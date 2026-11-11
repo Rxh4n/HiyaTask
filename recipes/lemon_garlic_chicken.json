@@ -1,0 +1,27 @@
+{
+  "title": "Lemon and garlic yoghurt chicken traybake",
+  "servings": 4,
+  "ingredients": [
+    {"name": "chicken thighs, boneless and skinless", "quantity": 800, "unit": "g"},
+    {"name": "Greek yoghurt", "quantity": 150, "unit": "g"},
+    {"name": "lemon", "quantity": 1, "unit": ""},
+    {"name": "garlic", "quantity": 4, "unit": "cloves"},
+    {"name": "olive oil", "quantity": 3, "unit": "tbsp"},
+    {"name": "smoked paprika", "quantity": 2, "unit": "tsp"},
+    {"name": "ground cumin", "quantity": 1, "unit": "tsp"},
+    {"name": "salt", "quantity": 1, "unit": "tsp"},
+    {"name": "baby potatoes, halved", "quantity": 600, "unit": "g"},
+    {"name": "red onions, cut into wedges", "quantity": 2, "unit": ""},
+    {"name": "fresh parsley, chopped, to serve", "quantity": null, "unit": ""}
+  ],
+  "steps": [
+    "Zest and juice the lemon. Crush the garlic.",
+    "In a large bowl, mix the Greek yoghurt, lemon zest, half the lemon juice, the garlic, a third of the olive oil, the smoked paprika, the cumin and the salt.",
+    "Add the chicken thighs and massage the marinade into them with your hands until fully coated. Cover and leave to marinate for at least 30 minutes, or up to overnight in the fridge.",
+    "Heat the oven to 200C, or 180C fan. Toss the potatoes and red onions in the rest of the olive oil with a pinch of salt and spread them over a large roasting tray.",
+    "Roast the potatoes and onions for 15 minutes.",
+    "Push the vegetables to the sides and lay the chicken in the middle of the tray, scraping on any leftover marinade.",
+    "Roast for 25 to 30 minutes, until the chicken is golden at the edges and cooked through, with no pink in the middle and the juices running clear.",
+    "Squeeze over the remaining lemon juice, scatter with parsley and serve."
+  ]
+}

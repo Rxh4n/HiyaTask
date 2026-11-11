@@ -1,0 +1,6 @@
+sounddevice
+numpy
+faster-whisper
+google-genai
+pydantic
+python-dotenv
